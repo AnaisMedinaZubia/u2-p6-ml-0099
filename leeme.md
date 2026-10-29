@@ -6,6 +6,7 @@ Es la estructura más simple que proporciona Pandas, y se asemeja a una columna 
 * índice: contiene valores únicos y, por lo general ordenados. Se usan para acceder a valores individuales de los datos.
 
 * vector: contiene los datos.
+![alt text](image-2.png)
 
 ## codigo
 ![alt text](image.png)
